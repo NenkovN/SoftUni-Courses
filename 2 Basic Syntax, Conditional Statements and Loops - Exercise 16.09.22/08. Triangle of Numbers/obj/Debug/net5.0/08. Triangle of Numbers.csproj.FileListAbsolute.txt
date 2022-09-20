@@ -1,0 +1,15 @@
+D:\projects\08. Triangle of Numbers\bin\Debug\net5.0\08. Triangle of Numbers.exe
+D:\projects\08. Triangle of Numbers\bin\Debug\net5.0\08. Triangle of Numbers.deps.json
+D:\projects\08. Triangle of Numbers\bin\Debug\net5.0\08. Triangle of Numbers.runtimeconfig.json
+D:\projects\08. Triangle of Numbers\bin\Debug\net5.0\08. Triangle of Numbers.runtimeconfig.dev.json
+D:\projects\08. Triangle of Numbers\bin\Debug\net5.0\08. Triangle of Numbers.dll
+D:\projects\08. Triangle of Numbers\bin\Debug\net5.0\ref\08. Triangle of Numbers.dll
+D:\projects\08. Triangle of Numbers\bin\Debug\net5.0\08. Triangle of Numbers.pdb
+D:\projects\08. Triangle of Numbers\obj\Debug\net5.0\08. Triangle of Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\08. Triangle of Numbers\obj\Debug\net5.0\08. Triangle of Numbers.AssemblyInfoInputs.cache
+D:\projects\08. Triangle of Numbers\obj\Debug\net5.0\08. Triangle of Numbers.AssemblyInfo.cs
+D:\projects\08. Triangle of Numbers\obj\Debug\net5.0\08. Triangle of Numbers.csproj.CoreCompileInputs.cache
+D:\projects\08. Triangle of Numbers\obj\Debug\net5.0\08. Triangle of Numbers.dll
+D:\projects\08. Triangle of Numbers\obj\Debug\net5.0\ref\08. Triangle of Numbers.dll
+D:\projects\08. Triangle of Numbers\obj\Debug\net5.0\08. Triangle of Numbers.pdb
+D:\projects\08. Triangle of Numbers\obj\Debug\net5.0\08. Triangle of Numbers.genruntimeconfig.cache
