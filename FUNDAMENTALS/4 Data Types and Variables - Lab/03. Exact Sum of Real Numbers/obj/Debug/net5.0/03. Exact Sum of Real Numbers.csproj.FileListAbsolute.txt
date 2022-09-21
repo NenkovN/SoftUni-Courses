@@ -1,0 +1,16 @@
+D:\projects\03. Exact Sum of Real Numbers\bin\Debug\net5.0\03. Exact Sum of Real Numbers.exe
+D:\projects\03. Exact Sum of Real Numbers\bin\Debug\net5.0\03. Exact Sum of Real Numbers.deps.json
+D:\projects\03. Exact Sum of Real Numbers\bin\Debug\net5.0\03. Exact Sum of Real Numbers.runtimeconfig.json
+D:\projects\03. Exact Sum of Real Numbers\bin\Debug\net5.0\03. Exact Sum of Real Numbers.runtimeconfig.dev.json
+D:\projects\03. Exact Sum of Real Numbers\bin\Debug\net5.0\03. Exact Sum of Real Numbers.dll
+D:\projects\03. Exact Sum of Real Numbers\bin\Debug\net5.0\ref\03. Exact Sum of Real Numbers.dll
+D:\projects\03. Exact Sum of Real Numbers\bin\Debug\net5.0\03. Exact Sum of Real Numbers.pdb
+D:\projects\03. Exact Sum of Real Numbers\obj\Debug\net5.0\03. Exact Sum of Real Numbers.csproj.AssemblyReference.cache
+D:\projects\03. Exact Sum of Real Numbers\obj\Debug\net5.0\03. Exact Sum of Real Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\03. Exact Sum of Real Numbers\obj\Debug\net5.0\03. Exact Sum of Real Numbers.AssemblyInfoInputs.cache
+D:\projects\03. Exact Sum of Real Numbers\obj\Debug\net5.0\03. Exact Sum of Real Numbers.AssemblyInfo.cs
+D:\projects\03. Exact Sum of Real Numbers\obj\Debug\net5.0\03. Exact Sum of Real Numbers.csproj.CoreCompileInputs.cache
+D:\projects\03. Exact Sum of Real Numbers\obj\Debug\net5.0\03. Exact Sum of Real Numbers.dll
+D:\projects\03. Exact Sum of Real Numbers\obj\Debug\net5.0\ref\03. Exact Sum of Real Numbers.dll
+D:\projects\03. Exact Sum of Real Numbers\obj\Debug\net5.0\03. Exact Sum of Real Numbers.pdb
+D:\projects\03. Exact Sum of Real Numbers\obj\Debug\net5.0\03. Exact Sum of Real Numbers.genruntimeconfig.cache

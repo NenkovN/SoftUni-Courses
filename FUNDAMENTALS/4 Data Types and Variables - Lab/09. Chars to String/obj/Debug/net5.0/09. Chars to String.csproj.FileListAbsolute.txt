@@ -1,0 +1,16 @@
+D:\projects\09. Chars to String\bin\Debug\net5.0\09. Chars to String.exe
+D:\projects\09. Chars to String\bin\Debug\net5.0\09. Chars to String.deps.json
+D:\projects\09. Chars to String\bin\Debug\net5.0\09. Chars to String.runtimeconfig.json
+D:\projects\09. Chars to String\bin\Debug\net5.0\09. Chars to String.runtimeconfig.dev.json
+D:\projects\09. Chars to String\bin\Debug\net5.0\09. Chars to String.dll
+D:\projects\09. Chars to String\bin\Debug\net5.0\ref\09. Chars to String.dll
+D:\projects\09. Chars to String\bin\Debug\net5.0\09. Chars to String.pdb
+D:\projects\09. Chars to String\obj\Debug\net5.0\09. Chars to String.csproj.AssemblyReference.cache
+D:\projects\09. Chars to String\obj\Debug\net5.0\09. Chars to String.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\09. Chars to String\obj\Debug\net5.0\09. Chars to String.AssemblyInfoInputs.cache
+D:\projects\09. Chars to String\obj\Debug\net5.0\09. Chars to String.AssemblyInfo.cs
+D:\projects\09. Chars to String\obj\Debug\net5.0\09. Chars to String.csproj.CoreCompileInputs.cache
+D:\projects\09. Chars to String\obj\Debug\net5.0\09. Chars to String.dll
+D:\projects\09. Chars to String\obj\Debug\net5.0\ref\09. Chars to String.dll
+D:\projects\09. Chars to String\obj\Debug\net5.0\09. Chars to String.pdb
+D:\projects\09. Chars to String\obj\Debug\net5.0\09. Chars to String.genruntimeconfig.cache

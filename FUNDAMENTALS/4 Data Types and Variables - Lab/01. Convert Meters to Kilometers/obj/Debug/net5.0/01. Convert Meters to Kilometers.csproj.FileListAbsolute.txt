@@ -1,0 +1,16 @@
+D:\projects\01. Convert Meters to Kilometers\bin\Debug\net5.0\01. Convert Meters to Kilometers.exe
+D:\projects\01. Convert Meters to Kilometers\bin\Debug\net5.0\01. Convert Meters to Kilometers.deps.json
+D:\projects\01. Convert Meters to Kilometers\bin\Debug\net5.0\01. Convert Meters to Kilometers.runtimeconfig.json
+D:\projects\01. Convert Meters to Kilometers\bin\Debug\net5.0\01. Convert Meters to Kilometers.runtimeconfig.dev.json
+D:\projects\01. Convert Meters to Kilometers\bin\Debug\net5.0\01. Convert Meters to Kilometers.dll
+D:\projects\01. Convert Meters to Kilometers\bin\Debug\net5.0\ref\01. Convert Meters to Kilometers.dll
+D:\projects\01. Convert Meters to Kilometers\bin\Debug\net5.0\01. Convert Meters to Kilometers.pdb
+D:\projects\01. Convert Meters to Kilometers\obj\Debug\net5.0\01. Convert Meters to Kilometers.csproj.AssemblyReference.cache
+D:\projects\01. Convert Meters to Kilometers\obj\Debug\net5.0\01. Convert Meters to Kilometers.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\01. Convert Meters to Kilometers\obj\Debug\net5.0\01. Convert Meters to Kilometers.AssemblyInfoInputs.cache
+D:\projects\01. Convert Meters to Kilometers\obj\Debug\net5.0\01. Convert Meters to Kilometers.AssemblyInfo.cs
+D:\projects\01. Convert Meters to Kilometers\obj\Debug\net5.0\01. Convert Meters to Kilometers.csproj.CoreCompileInputs.cache
+D:\projects\01. Convert Meters to Kilometers\obj\Debug\net5.0\01. Convert Meters to Kilometers.dll
+D:\projects\01. Convert Meters to Kilometers\obj\Debug\net5.0\ref\01. Convert Meters to Kilometers.dll
+D:\projects\01. Convert Meters to Kilometers\obj\Debug\net5.0\01. Convert Meters to Kilometers.pdb
+D:\projects\01. Convert Meters to Kilometers\obj\Debug\net5.0\01. Convert Meters to Kilometers.genruntimeconfig.cache

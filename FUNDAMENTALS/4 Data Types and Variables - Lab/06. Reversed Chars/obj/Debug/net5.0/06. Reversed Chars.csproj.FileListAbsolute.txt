@@ -1,0 +1,15 @@
+D:\projects\06. Reversed Chars\bin\Debug\net5.0\06. Reversed Chars.exe
+D:\projects\06. Reversed Chars\bin\Debug\net5.0\06. Reversed Chars.deps.json
+D:\projects\06. Reversed Chars\bin\Debug\net5.0\06. Reversed Chars.runtimeconfig.json
+D:\projects\06. Reversed Chars\bin\Debug\net5.0\06. Reversed Chars.runtimeconfig.dev.json
+D:\projects\06. Reversed Chars\bin\Debug\net5.0\06. Reversed Chars.dll
+D:\projects\06. Reversed Chars\bin\Debug\net5.0\ref\06. Reversed Chars.dll
+D:\projects\06. Reversed Chars\bin\Debug\net5.0\06. Reversed Chars.pdb
+D:\projects\06. Reversed Chars\obj\Debug\net5.0\06. Reversed Chars.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\06. Reversed Chars\obj\Debug\net5.0\06. Reversed Chars.AssemblyInfoInputs.cache
+D:\projects\06. Reversed Chars\obj\Debug\net5.0\06. Reversed Chars.AssemblyInfo.cs
+D:\projects\06. Reversed Chars\obj\Debug\net5.0\06. Reversed Chars.csproj.CoreCompileInputs.cache
+D:\projects\06. Reversed Chars\obj\Debug\net5.0\06. Reversed Chars.dll
+D:\projects\06. Reversed Chars\obj\Debug\net5.0\ref\06. Reversed Chars.dll
+D:\projects\06. Reversed Chars\obj\Debug\net5.0\06. Reversed Chars.pdb
+D:\projects\06. Reversed Chars\obj\Debug\net5.0\06. Reversed Chars.genruntimeconfig.cache

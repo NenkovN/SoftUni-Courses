@@ -1,0 +1,4 @@
+D:\projects\08. Town Info\obj\Debug\net5.0\08. Town Info.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\08. Town Info\obj\Debug\net5.0\08. Town Info.AssemblyInfoInputs.cache
+D:\projects\08. Town Info\obj\Debug\net5.0\08. Town Info.AssemblyInfo.cs
+D:\projects\08. Town Info\obj\Debug\net5.0\08. Town Info.csproj.CoreCompileInputs.cache
