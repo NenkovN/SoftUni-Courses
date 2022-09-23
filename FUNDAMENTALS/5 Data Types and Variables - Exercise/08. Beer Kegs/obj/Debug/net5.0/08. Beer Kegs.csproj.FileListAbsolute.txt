@@ -1,0 +1,15 @@
+D:\projects\08. Beer Kegs\bin\Debug\net5.0\08. Beer Kegs.exe
+D:\projects\08. Beer Kegs\bin\Debug\net5.0\08. Beer Kegs.deps.json
+D:\projects\08. Beer Kegs\bin\Debug\net5.0\08. Beer Kegs.runtimeconfig.json
+D:\projects\08. Beer Kegs\bin\Debug\net5.0\08. Beer Kegs.runtimeconfig.dev.json
+D:\projects\08. Beer Kegs\bin\Debug\net5.0\08. Beer Kegs.dll
+D:\projects\08. Beer Kegs\bin\Debug\net5.0\ref\08. Beer Kegs.dll
+D:\projects\08. Beer Kegs\bin\Debug\net5.0\08. Beer Kegs.pdb
+D:\projects\08. Beer Kegs\obj\Debug\net5.0\08. Beer Kegs.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\08. Beer Kegs\obj\Debug\net5.0\08. Beer Kegs.AssemblyInfoInputs.cache
+D:\projects\08. Beer Kegs\obj\Debug\net5.0\08. Beer Kegs.AssemblyInfo.cs
+D:\projects\08. Beer Kegs\obj\Debug\net5.0\08. Beer Kegs.csproj.CoreCompileInputs.cache
+D:\projects\08. Beer Kegs\obj\Debug\net5.0\08. Beer Kegs.dll
+D:\projects\08. Beer Kegs\obj\Debug\net5.0\ref\08. Beer Kegs.dll
+D:\projects\08. Beer Kegs\obj\Debug\net5.0\08. Beer Kegs.pdb
+D:\projects\08. Beer Kegs\obj\Debug\net5.0\08. Beer Kegs.genruntimeconfig.cache

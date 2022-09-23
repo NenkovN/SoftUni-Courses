@@ -1,0 +1,15 @@
+D:\projects\10. Poke Mon\bin\Debug\net5.0\10. Poke Mon.exe
+D:\projects\10. Poke Mon\bin\Debug\net5.0\10. Poke Mon.deps.json
+D:\projects\10. Poke Mon\bin\Debug\net5.0\10. Poke Mon.runtimeconfig.json
+D:\projects\10. Poke Mon\bin\Debug\net5.0\10. Poke Mon.runtimeconfig.dev.json
+D:\projects\10. Poke Mon\bin\Debug\net5.0\10. Poke Mon.dll
+D:\projects\10. Poke Mon\bin\Debug\net5.0\ref\10. Poke Mon.dll
+D:\projects\10. Poke Mon\bin\Debug\net5.0\10. Poke Mon.pdb
+D:\projects\10. Poke Mon\obj\Debug\net5.0\10. Poke Mon.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\10. Poke Mon\obj\Debug\net5.0\10. Poke Mon.AssemblyInfoInputs.cache
+D:\projects\10. Poke Mon\obj\Debug\net5.0\10. Poke Mon.AssemblyInfo.cs
+D:\projects\10. Poke Mon\obj\Debug\net5.0\10. Poke Mon.csproj.CoreCompileInputs.cache
+D:\projects\10. Poke Mon\obj\Debug\net5.0\10. Poke Mon.dll
+D:\projects\10. Poke Mon\obj\Debug\net5.0\ref\10. Poke Mon.dll
+D:\projects\10. Poke Mon\obj\Debug\net5.0\10. Poke Mon.pdb
+D:\projects\10. Poke Mon\obj\Debug\net5.0\10. Poke Mon.genruntimeconfig.cache

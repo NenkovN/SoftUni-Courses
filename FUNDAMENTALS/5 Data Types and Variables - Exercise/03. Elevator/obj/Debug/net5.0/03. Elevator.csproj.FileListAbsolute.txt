@@ -1,0 +1,16 @@
+D:\projects\03. Elevator\bin\Debug\net5.0\03. Elevator.exe
+D:\projects\03. Elevator\bin\Debug\net5.0\03. Elevator.deps.json
+D:\projects\03. Elevator\bin\Debug\net5.0\03. Elevator.runtimeconfig.json
+D:\projects\03. Elevator\bin\Debug\net5.0\03. Elevator.runtimeconfig.dev.json
+D:\projects\03. Elevator\bin\Debug\net5.0\03. Elevator.dll
+D:\projects\03. Elevator\bin\Debug\net5.0\ref\03. Elevator.dll
+D:\projects\03. Elevator\bin\Debug\net5.0\03. Elevator.pdb
+D:\projects\03. Elevator\obj\Debug\net5.0\03. Elevator.csproj.AssemblyReference.cache
+D:\projects\03. Elevator\obj\Debug\net5.0\03. Elevator.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\03. Elevator\obj\Debug\net5.0\03. Elevator.AssemblyInfoInputs.cache
+D:\projects\03. Elevator\obj\Debug\net5.0\03. Elevator.AssemblyInfo.cs
+D:\projects\03. Elevator\obj\Debug\net5.0\03. Elevator.csproj.CoreCompileInputs.cache
+D:\projects\03. Elevator\obj\Debug\net5.0\03. Elevator.dll
+D:\projects\03. Elevator\obj\Debug\net5.0\ref\03. Elevator.dll
+D:\projects\03. Elevator\obj\Debug\net5.0\03. Elevator.pdb
+D:\projects\03. Elevator\obj\Debug\net5.0\03. Elevator.genruntimeconfig.cache

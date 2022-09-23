@@ -1,0 +1,16 @@
+D:\projects\02. Sum Digits\bin\Debug\net5.0\02. Sum Digits.exe
+D:\projects\02. Sum Digits\bin\Debug\net5.0\02. Sum Digits.deps.json
+D:\projects\02. Sum Digits\bin\Debug\net5.0\02. Sum Digits.runtimeconfig.json
+D:\projects\02. Sum Digits\bin\Debug\net5.0\02. Sum Digits.runtimeconfig.dev.json
+D:\projects\02. Sum Digits\bin\Debug\net5.0\02. Sum Digits.dll
+D:\projects\02. Sum Digits\bin\Debug\net5.0\ref\02. Sum Digits.dll
+D:\projects\02. Sum Digits\bin\Debug\net5.0\02. Sum Digits.pdb
+D:\projects\02. Sum Digits\obj\Debug\net5.0\02. Sum Digits.csproj.AssemblyReference.cache
+D:\projects\02. Sum Digits\obj\Debug\net5.0\02. Sum Digits.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\02. Sum Digits\obj\Debug\net5.0\02. Sum Digits.AssemblyInfoInputs.cache
+D:\projects\02. Sum Digits\obj\Debug\net5.0\02. Sum Digits.AssemblyInfo.cs
+D:\projects\02. Sum Digits\obj\Debug\net5.0\02. Sum Digits.csproj.CoreCompileInputs.cache
+D:\projects\02. Sum Digits\obj\Debug\net5.0\02. Sum Digits.dll
+D:\projects\02. Sum Digits\obj\Debug\net5.0\ref\02. Sum Digits.dll
+D:\projects\02. Sum Digits\obj\Debug\net5.0\02. Sum Digits.pdb
+D:\projects\02. Sum Digits\obj\Debug\net5.0\02. Sum Digits.genruntimeconfig.cache

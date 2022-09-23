@@ -1,0 +1,16 @@
+D:\projects\01. Integer Operations\bin\Debug\net5.0\01. Integer Operations.exe
+D:\projects\01. Integer Operations\bin\Debug\net5.0\01. Integer Operations.deps.json
+D:\projects\01. Integer Operations\bin\Debug\net5.0\01. Integer Operations.runtimeconfig.json
+D:\projects\01. Integer Operations\bin\Debug\net5.0\01. Integer Operations.runtimeconfig.dev.json
+D:\projects\01. Integer Operations\bin\Debug\net5.0\01. Integer Operations.dll
+D:\projects\01. Integer Operations\bin\Debug\net5.0\ref\01. Integer Operations.dll
+D:\projects\01. Integer Operations\bin\Debug\net5.0\01. Integer Operations.pdb
+D:\projects\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.csproj.AssemblyReference.cache
+D:\projects\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.AssemblyInfoInputs.cache
+D:\projects\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.AssemblyInfo.cs
+D:\projects\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.csproj.CoreCompileInputs.cache
+D:\projects\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.dll
+D:\projects\01. Integer Operations\obj\Debug\net5.0\ref\01. Integer Operations.dll
+D:\projects\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.pdb
+D:\projects\01. Integer Operations\obj\Debug\net5.0\01. Integer Operations.genruntimeconfig.cache

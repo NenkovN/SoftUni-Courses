@@ -1,0 +1,16 @@
+D:\projects\07. Water Overflow\bin\Debug\net5.0\07. Water Overflow.exe
+D:\projects\07. Water Overflow\bin\Debug\net5.0\07. Water Overflow.deps.json
+D:\projects\07. Water Overflow\bin\Debug\net5.0\07. Water Overflow.runtimeconfig.json
+D:\projects\07. Water Overflow\bin\Debug\net5.0\07. Water Overflow.runtimeconfig.dev.json
+D:\projects\07. Water Overflow\bin\Debug\net5.0\07. Water Overflow.dll
+D:\projects\07. Water Overflow\bin\Debug\net5.0\ref\07. Water Overflow.dll
+D:\projects\07. Water Overflow\bin\Debug\net5.0\07. Water Overflow.pdb
+D:\projects\07. Water Overflow\obj\Debug\net5.0\07. Water Overflow.csproj.AssemblyReference.cache
+D:\projects\07. Water Overflow\obj\Debug\net5.0\07. Water Overflow.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\07. Water Overflow\obj\Debug\net5.0\07. Water Overflow.AssemblyInfoInputs.cache
+D:\projects\07. Water Overflow\obj\Debug\net5.0\07. Water Overflow.AssemblyInfo.cs
+D:\projects\07. Water Overflow\obj\Debug\net5.0\07. Water Overflow.csproj.CoreCompileInputs.cache
+D:\projects\07. Water Overflow\obj\Debug\net5.0\07. Water Overflow.dll
+D:\projects\07. Water Overflow\obj\Debug\net5.0\ref\07. Water Overflow.dll
+D:\projects\07. Water Overflow\obj\Debug\net5.0\07. Water Overflow.pdb
+D:\projects\07. Water Overflow\obj\Debug\net5.0\07. Water Overflow.genruntimeconfig.cache

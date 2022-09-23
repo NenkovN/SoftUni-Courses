@@ -1,0 +1,16 @@
+D:\projects\11. Snowballs\bin\Debug\net5.0\11. Snowballs.exe
+D:\projects\11. Snowballs\bin\Debug\net5.0\11. Snowballs.deps.json
+D:\projects\11. Snowballs\bin\Debug\net5.0\11. Snowballs.runtimeconfig.json
+D:\projects\11. Snowballs\bin\Debug\net5.0\11. Snowballs.runtimeconfig.dev.json
+D:\projects\11. Snowballs\bin\Debug\net5.0\11. Snowballs.dll
+D:\projects\11. Snowballs\bin\Debug\net5.0\ref\11. Snowballs.dll
+D:\projects\11. Snowballs\bin\Debug\net5.0\11. Snowballs.pdb
+D:\projects\11. Snowballs\obj\Debug\net5.0\11. Snowballs.csproj.AssemblyReference.cache
+D:\projects\11. Snowballs\obj\Debug\net5.0\11. Snowballs.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\11. Snowballs\obj\Debug\net5.0\11. Snowballs.AssemblyInfoInputs.cache
+D:\projects\11. Snowballs\obj\Debug\net5.0\11. Snowballs.AssemblyInfo.cs
+D:\projects\11. Snowballs\obj\Debug\net5.0\11. Snowballs.csproj.CoreCompileInputs.cache
+D:\projects\11. Snowballs\obj\Debug\net5.0\11. Snowballs.dll
+D:\projects\11. Snowballs\obj\Debug\net5.0\ref\11. Snowballs.dll
+D:\projects\11. Snowballs\obj\Debug\net5.0\11. Snowballs.pdb
+D:\projects\11. Snowballs\obj\Debug\net5.0\11. Snowballs.genruntimeconfig.cache
