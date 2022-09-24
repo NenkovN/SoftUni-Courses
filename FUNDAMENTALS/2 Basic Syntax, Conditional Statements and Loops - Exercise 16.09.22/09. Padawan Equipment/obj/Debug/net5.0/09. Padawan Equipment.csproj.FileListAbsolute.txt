@@ -1,0 +1,16 @@
+D:\projects\09. Padawan Equipment\bin\Debug\net5.0\09. Padawan Equipment.exe
+D:\projects\09. Padawan Equipment\bin\Debug\net5.0\09. Padawan Equipment.deps.json
+D:\projects\09. Padawan Equipment\bin\Debug\net5.0\09. Padawan Equipment.runtimeconfig.json
+D:\projects\09. Padawan Equipment\bin\Debug\net5.0\09. Padawan Equipment.runtimeconfig.dev.json
+D:\projects\09. Padawan Equipment\bin\Debug\net5.0\09. Padawan Equipment.dll
+D:\projects\09. Padawan Equipment\bin\Debug\net5.0\ref\09. Padawan Equipment.dll
+D:\projects\09. Padawan Equipment\bin\Debug\net5.0\09. Padawan Equipment.pdb
+D:\projects\09. Padawan Equipment\obj\Debug\net5.0\09. Padawan Equipment.csproj.AssemblyReference.cache
+D:\projects\09. Padawan Equipment\obj\Debug\net5.0\09. Padawan Equipment.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\09. Padawan Equipment\obj\Debug\net5.0\09. Padawan Equipment.AssemblyInfoInputs.cache
+D:\projects\09. Padawan Equipment\obj\Debug\net5.0\09. Padawan Equipment.AssemblyInfo.cs
+D:\projects\09. Padawan Equipment\obj\Debug\net5.0\09. Padawan Equipment.csproj.CoreCompileInputs.cache
+D:\projects\09. Padawan Equipment\obj\Debug\net5.0\09. Padawan Equipment.dll
+D:\projects\09. Padawan Equipment\obj\Debug\net5.0\ref\09. Padawan Equipment.dll
+D:\projects\09. Padawan Equipment\obj\Debug\net5.0\09. Padawan Equipment.pdb
+D:\projects\09. Padawan Equipment\obj\Debug\net5.0\09. Padawan Equipment.genruntimeconfig.cache
