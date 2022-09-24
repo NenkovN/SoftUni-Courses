@@ -1,0 +1,16 @@
+D:\projects\04.Prime Checker\bin\Debug\net5.0\04.Prime Checker.exe
+D:\projects\04.Prime Checker\bin\Debug\net5.0\04.Prime Checker.deps.json
+D:\projects\04.Prime Checker\bin\Debug\net5.0\04.Prime Checker.runtimeconfig.json
+D:\projects\04.Prime Checker\bin\Debug\net5.0\04.Prime Checker.runtimeconfig.dev.json
+D:\projects\04.Prime Checker\bin\Debug\net5.0\04.Prime Checker.dll
+D:\projects\04.Prime Checker\bin\Debug\net5.0\ref\04.Prime Checker.dll
+D:\projects\04.Prime Checker\bin\Debug\net5.0\04.Prime Checker.pdb
+D:\projects\04.Prime Checker\obj\Debug\net5.0\04.Prime Checker.csproj.AssemblyReference.cache
+D:\projects\04.Prime Checker\obj\Debug\net5.0\04.Prime Checker.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\04.Prime Checker\obj\Debug\net5.0\04.Prime Checker.AssemblyInfoInputs.cache
+D:\projects\04.Prime Checker\obj\Debug\net5.0\04.Prime Checker.AssemblyInfo.cs
+D:\projects\04.Prime Checker\obj\Debug\net5.0\04.Prime Checker.csproj.CoreCompileInputs.cache
+D:\projects\04.Prime Checker\obj\Debug\net5.0\04.Prime Checker.dll
+D:\projects\04.Prime Checker\obj\Debug\net5.0\ref\04.Prime Checker.dll
+D:\projects\04.Prime Checker\obj\Debug\net5.0\04.Prime Checker.pdb
+D:\projects\04.Prime Checker\obj\Debug\net5.0\04.Prime Checker.genruntimeconfig.cache

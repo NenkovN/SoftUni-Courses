@@ -1,0 +1,16 @@
+D:\projects\03. Floating Equality\bin\Debug\net5.0\03. Floating Equality.exe
+D:\projects\03. Floating Equality\bin\Debug\net5.0\03. Floating Equality.deps.json
+D:\projects\03. Floating Equality\bin\Debug\net5.0\03. Floating Equality.runtimeconfig.json
+D:\projects\03. Floating Equality\bin\Debug\net5.0\03. Floating Equality.runtimeconfig.dev.json
+D:\projects\03. Floating Equality\bin\Debug\net5.0\03. Floating Equality.dll
+D:\projects\03. Floating Equality\bin\Debug\net5.0\ref\03. Floating Equality.dll
+D:\projects\03. Floating Equality\bin\Debug\net5.0\03. Floating Equality.pdb
+D:\projects\03. Floating Equality\obj\Debug\net5.0\03. Floating Equality.csproj.AssemblyReference.cache
+D:\projects\03. Floating Equality\obj\Debug\net5.0\03. Floating Equality.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\03. Floating Equality\obj\Debug\net5.0\03. Floating Equality.AssemblyInfoInputs.cache
+D:\projects\03. Floating Equality\obj\Debug\net5.0\03. Floating Equality.AssemblyInfo.cs
+D:\projects\03. Floating Equality\obj\Debug\net5.0\03. Floating Equality.csproj.CoreCompileInputs.cache
+D:\projects\03. Floating Equality\obj\Debug\net5.0\03. Floating Equality.dll
+D:\projects\03. Floating Equality\obj\Debug\net5.0\ref\03. Floating Equality.dll
+D:\projects\03. Floating Equality\obj\Debug\net5.0\03. Floating Equality.pdb
+D:\projects\03. Floating Equality\obj\Debug\net5.0\03. Floating Equality.genruntimeconfig.cache

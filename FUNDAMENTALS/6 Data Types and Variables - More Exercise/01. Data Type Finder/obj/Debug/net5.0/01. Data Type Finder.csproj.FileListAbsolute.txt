@@ -1,0 +1,16 @@
+D:\projects\01. Data Type Finder\obj\Debug\net5.0\01. Data Type Finder.csproj.AssemblyReference.cache
+D:\projects\01. Data Type Finder\obj\Debug\net5.0\01. Data Type Finder.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\01. Data Type Finder\obj\Debug\net5.0\01. Data Type Finder.AssemblyInfoInputs.cache
+D:\projects\01. Data Type Finder\obj\Debug\net5.0\01. Data Type Finder.AssemblyInfo.cs
+D:\projects\01. Data Type Finder\obj\Debug\net5.0\01. Data Type Finder.csproj.CoreCompileInputs.cache
+D:\projects\01. Data Type Finder\bin\Debug\net5.0\01. Data Type Finder.exe
+D:\projects\01. Data Type Finder\bin\Debug\net5.0\01. Data Type Finder.deps.json
+D:\projects\01. Data Type Finder\bin\Debug\net5.0\01. Data Type Finder.runtimeconfig.json
+D:\projects\01. Data Type Finder\bin\Debug\net5.0\01. Data Type Finder.runtimeconfig.dev.json
+D:\projects\01. Data Type Finder\bin\Debug\net5.0\01. Data Type Finder.dll
+D:\projects\01. Data Type Finder\bin\Debug\net5.0\ref\01. Data Type Finder.dll
+D:\projects\01. Data Type Finder\bin\Debug\net5.0\01. Data Type Finder.pdb
+D:\projects\01. Data Type Finder\obj\Debug\net5.0\01. Data Type Finder.dll
+D:\projects\01. Data Type Finder\obj\Debug\net5.0\ref\01. Data Type Finder.dll
+D:\projects\01. Data Type Finder\obj\Debug\net5.0\01. Data Type Finder.pdb
+D:\projects\01. Data Type Finder\obj\Debug\net5.0\01. Data Type Finder.genruntimeconfig.cache

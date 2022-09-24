@@ -1,0 +1,16 @@
+D:\projects\06. Balanced Brackets\bin\Debug\net5.0\06. Balanced Brackets.exe
+D:\projects\06. Balanced Brackets\bin\Debug\net5.0\06. Balanced Brackets.deps.json
+D:\projects\06. Balanced Brackets\bin\Debug\net5.0\06. Balanced Brackets.runtimeconfig.json
+D:\projects\06. Balanced Brackets\bin\Debug\net5.0\06. Balanced Brackets.runtimeconfig.dev.json
+D:\projects\06. Balanced Brackets\bin\Debug\net5.0\06. Balanced Brackets.dll
+D:\projects\06. Balanced Brackets\bin\Debug\net5.0\ref\06. Balanced Brackets.dll
+D:\projects\06. Balanced Brackets\bin\Debug\net5.0\06. Balanced Brackets.pdb
+D:\projects\06. Balanced Brackets\obj\Debug\net5.0\06. Balanced Brackets.csproj.AssemblyReference.cache
+D:\projects\06. Balanced Brackets\obj\Debug\net5.0\06. Balanced Brackets.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\06. Balanced Brackets\obj\Debug\net5.0\06. Balanced Brackets.AssemblyInfoInputs.cache
+D:\projects\06. Balanced Brackets\obj\Debug\net5.0\06. Balanced Brackets.AssemblyInfo.cs
+D:\projects\06. Balanced Brackets\obj\Debug\net5.0\06. Balanced Brackets.csproj.CoreCompileInputs.cache
+D:\projects\06. Balanced Brackets\obj\Debug\net5.0\06. Balanced Brackets.dll
+D:\projects\06. Balanced Brackets\obj\Debug\net5.0\ref\06. Balanced Brackets.dll
+D:\projects\06. Balanced Brackets\obj\Debug\net5.0\06. Balanced Brackets.pdb
+D:\projects\06. Balanced Brackets\obj\Debug\net5.0\06. Balanced Brackets.genruntimeconfig.cache

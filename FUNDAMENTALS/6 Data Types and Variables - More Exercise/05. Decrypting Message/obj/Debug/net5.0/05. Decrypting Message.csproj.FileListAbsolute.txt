@@ -1,0 +1,15 @@
+D:\projects\05. Decrypting Message\bin\Debug\net5.0\05. Decrypting Message.exe
+D:\projects\05. Decrypting Message\bin\Debug\net5.0\05. Decrypting Message.deps.json
+D:\projects\05. Decrypting Message\bin\Debug\net5.0\05. Decrypting Message.runtimeconfig.json
+D:\projects\05. Decrypting Message\bin\Debug\net5.0\05. Decrypting Message.runtimeconfig.dev.json
+D:\projects\05. Decrypting Message\bin\Debug\net5.0\05. Decrypting Message.dll
+D:\projects\05. Decrypting Message\bin\Debug\net5.0\ref\05. Decrypting Message.dll
+D:\projects\05. Decrypting Message\bin\Debug\net5.0\05. Decrypting Message.pdb
+D:\projects\05. Decrypting Message\obj\Debug\net5.0\05. Decrypting Message.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\05. Decrypting Message\obj\Debug\net5.0\05. Decrypting Message.AssemblyInfoInputs.cache
+D:\projects\05. Decrypting Message\obj\Debug\net5.0\05. Decrypting Message.AssemblyInfo.cs
+D:\projects\05. Decrypting Message\obj\Debug\net5.0\05. Decrypting Message.csproj.CoreCompileInputs.cache
+D:\projects\05. Decrypting Message\obj\Debug\net5.0\05. Decrypting Message.dll
+D:\projects\05. Decrypting Message\obj\Debug\net5.0\ref\05. Decrypting Message.dll
+D:\projects\05. Decrypting Message\obj\Debug\net5.0\05. Decrypting Message.pdb
+D:\projects\05. Decrypting Message\obj\Debug\net5.0\05. Decrypting Message.genruntimeconfig.cache
