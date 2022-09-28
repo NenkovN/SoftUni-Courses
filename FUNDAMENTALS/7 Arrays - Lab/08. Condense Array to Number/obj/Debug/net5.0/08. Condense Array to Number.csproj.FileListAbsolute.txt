@@ -1,0 +1,16 @@
+D:\projects\08. Condense Array to Number\bin\Debug\net5.0\08. Condense Array to Number.exe
+D:\projects\08. Condense Array to Number\bin\Debug\net5.0\08. Condense Array to Number.deps.json
+D:\projects\08. Condense Array to Number\bin\Debug\net5.0\08. Condense Array to Number.runtimeconfig.json
+D:\projects\08. Condense Array to Number\bin\Debug\net5.0\08. Condense Array to Number.runtimeconfig.dev.json
+D:\projects\08. Condense Array to Number\bin\Debug\net5.0\08. Condense Array to Number.dll
+D:\projects\08. Condense Array to Number\bin\Debug\net5.0\ref\08. Condense Array to Number.dll
+D:\projects\08. Condense Array to Number\bin\Debug\net5.0\08. Condense Array to Number.pdb
+D:\projects\08. Condense Array to Number\obj\Debug\net5.0\08. Condense Array to Number.csproj.AssemblyReference.cache
+D:\projects\08. Condense Array to Number\obj\Debug\net5.0\08. Condense Array to Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\08. Condense Array to Number\obj\Debug\net5.0\08. Condense Array to Number.AssemblyInfoInputs.cache
+D:\projects\08. Condense Array to Number\obj\Debug\net5.0\08. Condense Array to Number.AssemblyInfo.cs
+D:\projects\08. Condense Array to Number\obj\Debug\net5.0\08. Condense Array to Number.csproj.CoreCompileInputs.cache
+D:\projects\08. Condense Array to Number\obj\Debug\net5.0\08. Condense Array to Number.dll
+D:\projects\08. Condense Array to Number\obj\Debug\net5.0\ref\08. Condense Array to Number.dll
+D:\projects\08. Condense Array to Number\obj\Debug\net5.0\08. Condense Array to Number.pdb
+D:\projects\08. Condense Array to Number\obj\Debug\net5.0\08. Condense Array to Number.genruntimeconfig.cache

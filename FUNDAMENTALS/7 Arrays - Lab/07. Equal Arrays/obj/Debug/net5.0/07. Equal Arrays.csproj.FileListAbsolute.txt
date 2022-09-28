@@ -1,0 +1,15 @@
+D:\projects\07. Equal Arrays\bin\Debug\net5.0\07. Equal Arrays.exe
+D:\projects\07. Equal Arrays\bin\Debug\net5.0\07. Equal Arrays.deps.json
+D:\projects\07. Equal Arrays\bin\Debug\net5.0\07. Equal Arrays.runtimeconfig.json
+D:\projects\07. Equal Arrays\bin\Debug\net5.0\07. Equal Arrays.runtimeconfig.dev.json
+D:\projects\07. Equal Arrays\bin\Debug\net5.0\07. Equal Arrays.dll
+D:\projects\07. Equal Arrays\bin\Debug\net5.0\ref\07. Equal Arrays.dll
+D:\projects\07. Equal Arrays\bin\Debug\net5.0\07. Equal Arrays.pdb
+D:\projects\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.AssemblyInfoInputs.cache
+D:\projects\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.AssemblyInfo.cs
+D:\projects\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.csproj.CoreCompileInputs.cache
+D:\projects\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.dll
+D:\projects\07. Equal Arrays\obj\Debug\net5.0\ref\07. Equal Arrays.dll
+D:\projects\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.pdb
+D:\projects\07. Equal Arrays\obj\Debug\net5.0\07. Equal Arrays.genruntimeconfig.cache

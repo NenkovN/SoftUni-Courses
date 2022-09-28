@@ -1,0 +1,16 @@
+D:\projects\05. Sum Even Numbers\bin\Debug\net5.0\05. Sum Even Numbers.exe
+D:\projects\05. Sum Even Numbers\bin\Debug\net5.0\05. Sum Even Numbers.deps.json
+D:\projects\05. Sum Even Numbers\bin\Debug\net5.0\05. Sum Even Numbers.runtimeconfig.json
+D:\projects\05. Sum Even Numbers\bin\Debug\net5.0\05. Sum Even Numbers.runtimeconfig.dev.json
+D:\projects\05. Sum Even Numbers\bin\Debug\net5.0\05. Sum Even Numbers.dll
+D:\projects\05. Sum Even Numbers\bin\Debug\net5.0\ref\05. Sum Even Numbers.dll
+D:\projects\05. Sum Even Numbers\bin\Debug\net5.0\05. Sum Even Numbers.pdb
+D:\projects\05. Sum Even Numbers\obj\Debug\net5.0\05. Sum Even Numbers.csproj.AssemblyReference.cache
+D:\projects\05. Sum Even Numbers\obj\Debug\net5.0\05. Sum Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\05. Sum Even Numbers\obj\Debug\net5.0\05. Sum Even Numbers.AssemblyInfoInputs.cache
+D:\projects\05. Sum Even Numbers\obj\Debug\net5.0\05. Sum Even Numbers.AssemblyInfo.cs
+D:\projects\05. Sum Even Numbers\obj\Debug\net5.0\05. Sum Even Numbers.csproj.CoreCompileInputs.cache
+D:\projects\05. Sum Even Numbers\obj\Debug\net5.0\05. Sum Even Numbers.dll
+D:\projects\05. Sum Even Numbers\obj\Debug\net5.0\ref\05. Sum Even Numbers.dll
+D:\projects\05. Sum Even Numbers\obj\Debug\net5.0\05. Sum Even Numbers.pdb
+D:\projects\05. Sum Even Numbers\obj\Debug\net5.0\05. Sum Even Numbers.genruntimeconfig.cache

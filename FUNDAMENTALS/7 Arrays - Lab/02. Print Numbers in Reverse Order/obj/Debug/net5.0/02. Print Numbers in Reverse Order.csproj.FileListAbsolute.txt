@@ -1,0 +1,16 @@
+D:\projects\02. Print Numbers in Reverse Order\bin\Debug\net5.0\02. Print Numbers in Reverse Order.exe
+D:\projects\02. Print Numbers in Reverse Order\bin\Debug\net5.0\02. Print Numbers in Reverse Order.deps.json
+D:\projects\02. Print Numbers in Reverse Order\bin\Debug\net5.0\02. Print Numbers in Reverse Order.runtimeconfig.json
+D:\projects\02. Print Numbers in Reverse Order\bin\Debug\net5.0\02. Print Numbers in Reverse Order.runtimeconfig.dev.json
+D:\projects\02. Print Numbers in Reverse Order\bin\Debug\net5.0\02. Print Numbers in Reverse Order.dll
+D:\projects\02. Print Numbers in Reverse Order\bin\Debug\net5.0\ref\02. Print Numbers in Reverse Order.dll
+D:\projects\02. Print Numbers in Reverse Order\bin\Debug\net5.0\02. Print Numbers in Reverse Order.pdb
+D:\projects\02. Print Numbers in Reverse Order\obj\Debug\net5.0\02. Print Numbers in Reverse Order.csproj.AssemblyReference.cache
+D:\projects\02. Print Numbers in Reverse Order\obj\Debug\net5.0\02. Print Numbers in Reverse Order.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\02. Print Numbers in Reverse Order\obj\Debug\net5.0\02. Print Numbers in Reverse Order.AssemblyInfoInputs.cache
+D:\projects\02. Print Numbers in Reverse Order\obj\Debug\net5.0\02. Print Numbers in Reverse Order.AssemblyInfo.cs
+D:\projects\02. Print Numbers in Reverse Order\obj\Debug\net5.0\02. Print Numbers in Reverse Order.csproj.CoreCompileInputs.cache
+D:\projects\02. Print Numbers in Reverse Order\obj\Debug\net5.0\02. Print Numbers in Reverse Order.dll
+D:\projects\02. Print Numbers in Reverse Order\obj\Debug\net5.0\ref\02. Print Numbers in Reverse Order.dll
+D:\projects\02. Print Numbers in Reverse Order\obj\Debug\net5.0\02. Print Numbers in Reverse Order.pdb
+D:\projects\02. Print Numbers in Reverse Order\obj\Debug\net5.0\02. Print Numbers in Reverse Order.genruntimeconfig.cache
