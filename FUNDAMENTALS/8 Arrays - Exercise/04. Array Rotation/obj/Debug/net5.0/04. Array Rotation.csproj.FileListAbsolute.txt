@@ -1,0 +1,16 @@
+D:\projects\04. Array Rotation\bin\Debug\net5.0\04. Array Rotation.exe
+D:\projects\04. Array Rotation\bin\Debug\net5.0\04. Array Rotation.deps.json
+D:\projects\04. Array Rotation\bin\Debug\net5.0\04. Array Rotation.runtimeconfig.json
+D:\projects\04. Array Rotation\bin\Debug\net5.0\04. Array Rotation.runtimeconfig.dev.json
+D:\projects\04. Array Rotation\bin\Debug\net5.0\04. Array Rotation.dll
+D:\projects\04. Array Rotation\bin\Debug\net5.0\ref\04. Array Rotation.dll
+D:\projects\04. Array Rotation\bin\Debug\net5.0\04. Array Rotation.pdb
+D:\projects\04. Array Rotation\obj\Debug\net5.0\04. Array Rotation.csproj.AssemblyReference.cache
+D:\projects\04. Array Rotation\obj\Debug\net5.0\04. Array Rotation.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\04. Array Rotation\obj\Debug\net5.0\04. Array Rotation.AssemblyInfoInputs.cache
+D:\projects\04. Array Rotation\obj\Debug\net5.0\04. Array Rotation.AssemblyInfo.cs
+D:\projects\04. Array Rotation\obj\Debug\net5.0\04. Array Rotation.csproj.CoreCompileInputs.cache
+D:\projects\04. Array Rotation\obj\Debug\net5.0\04. Array Rotation.dll
+D:\projects\04. Array Rotation\obj\Debug\net5.0\ref\04. Array Rotation.dll
+D:\projects\04. Array Rotation\obj\Debug\net5.0\04. Array Rotation.pdb
+D:\projects\04. Array Rotation\obj\Debug\net5.0\04. Array Rotation.genruntimeconfig.cache

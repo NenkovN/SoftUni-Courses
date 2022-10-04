@@ -1,0 +1,15 @@
+D:\projects\09. Kamino Factory\bin\Debug\net5.0\09. Kamino Factory.exe
+D:\projects\09. Kamino Factory\bin\Debug\net5.0\09. Kamino Factory.deps.json
+D:\projects\09. Kamino Factory\bin\Debug\net5.0\09. Kamino Factory.runtimeconfig.json
+D:\projects\09. Kamino Factory\bin\Debug\net5.0\09. Kamino Factory.runtimeconfig.dev.json
+D:\projects\09. Kamino Factory\bin\Debug\net5.0\09. Kamino Factory.dll
+D:\projects\09. Kamino Factory\bin\Debug\net5.0\ref\09. Kamino Factory.dll
+D:\projects\09. Kamino Factory\bin\Debug\net5.0\09. Kamino Factory.pdb
+D:\projects\09. Kamino Factory\obj\Debug\net5.0\09. Kamino Factory.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\09. Kamino Factory\obj\Debug\net5.0\09. Kamino Factory.AssemblyInfoInputs.cache
+D:\projects\09. Kamino Factory\obj\Debug\net5.0\09. Kamino Factory.AssemblyInfo.cs
+D:\projects\09. Kamino Factory\obj\Debug\net5.0\09. Kamino Factory.csproj.CoreCompileInputs.cache
+D:\projects\09. Kamino Factory\obj\Debug\net5.0\09. Kamino Factory.dll
+D:\projects\09. Kamino Factory\obj\Debug\net5.0\ref\09. Kamino Factory.dll
+D:\projects\09. Kamino Factory\obj\Debug\net5.0\09. Kamino Factory.pdb
+D:\projects\09. Kamino Factory\obj\Debug\net5.0\09. Kamino Factory.genruntimeconfig.cache

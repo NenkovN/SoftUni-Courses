@@ -1,0 +1,16 @@
+D:\projects\01. Train\bin\Debug\net5.0\01. Train.exe
+D:\projects\01. Train\bin\Debug\net5.0\01. Train.deps.json
+D:\projects\01. Train\bin\Debug\net5.0\01. Train.runtimeconfig.json
+D:\projects\01. Train\bin\Debug\net5.0\01. Train.runtimeconfig.dev.json
+D:\projects\01. Train\bin\Debug\net5.0\01. Train.dll
+D:\projects\01. Train\bin\Debug\net5.0\ref\01. Train.dll
+D:\projects\01. Train\bin\Debug\net5.0\01. Train.pdb
+D:\projects\01. Train\obj\Debug\net5.0\01. Train.csproj.AssemblyReference.cache
+D:\projects\01. Train\obj\Debug\net5.0\01. Train.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\01. Train\obj\Debug\net5.0\01. Train.AssemblyInfoInputs.cache
+D:\projects\01. Train\obj\Debug\net5.0\01. Train.AssemblyInfo.cs
+D:\projects\01. Train\obj\Debug\net5.0\01. Train.csproj.CoreCompileInputs.cache
+D:\projects\01. Train\obj\Debug\net5.0\01. Train.dll
+D:\projects\01. Train\obj\Debug\net5.0\ref\01. Train.dll
+D:\projects\01. Train\obj\Debug\net5.0\01. Train.pdb
+D:\projects\01. Train\obj\Debug\net5.0\01. Train.genruntimeconfig.cache

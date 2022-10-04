@@ -1,0 +1,16 @@
+D:\projects\01. Encrypt, Sort and Print Array\bin\Debug\net5.0\01. Encrypt, Sort and Print Array.exe
+D:\projects\01. Encrypt, Sort and Print Array\bin\Debug\net5.0\01. Encrypt, Sort and Print Array.deps.json
+D:\projects\01. Encrypt, Sort and Print Array\bin\Debug\net5.0\01. Encrypt, Sort and Print Array.runtimeconfig.json
+D:\projects\01. Encrypt, Sort and Print Array\bin\Debug\net5.0\01. Encrypt, Sort and Print Array.runtimeconfig.dev.json
+D:\projects\01. Encrypt, Sort and Print Array\bin\Debug\net5.0\01. Encrypt, Sort and Print Array.dll
+D:\projects\01. Encrypt, Sort and Print Array\bin\Debug\net5.0\ref\01. Encrypt, Sort and Print Array.dll
+D:\projects\01. Encrypt, Sort and Print Array\bin\Debug\net5.0\01. Encrypt, Sort and Print Array.pdb
+D:\projects\01. Encrypt, Sort and Print Array\obj\Debug\net5.0\01. Encrypt, Sort and Print Array.csproj.AssemblyReference.cache
+D:\projects\01. Encrypt, Sort and Print Array\obj\Debug\net5.0\01. Encrypt, Sort and Print Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\01. Encrypt, Sort and Print Array\obj\Debug\net5.0\01. Encrypt, Sort and Print Array.AssemblyInfoInputs.cache
+D:\projects\01. Encrypt, Sort and Print Array\obj\Debug\net5.0\01. Encrypt, Sort and Print Array.AssemblyInfo.cs
+D:\projects\01. Encrypt, Sort and Print Array\obj\Debug\net5.0\01. Encrypt, Sort and Print Array.csproj.CoreCompileInputs.cache
+D:\projects\01. Encrypt, Sort and Print Array\obj\Debug\net5.0\01. Encrypt, Sort and Print Array.dll
+D:\projects\01. Encrypt, Sort and Print Array\obj\Debug\net5.0\ref\01. Encrypt, Sort and Print Array.dll
+D:\projects\01. Encrypt, Sort and Print Array\obj\Debug\net5.0\01. Encrypt, Sort and Print Array.pdb
+D:\projects\01. Encrypt, Sort and Print Array\obj\Debug\net5.0\01. Encrypt, Sort and Print Array.genruntimeconfig.cache
