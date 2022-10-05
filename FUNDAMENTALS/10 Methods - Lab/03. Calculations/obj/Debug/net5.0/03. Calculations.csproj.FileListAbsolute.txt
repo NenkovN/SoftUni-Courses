@@ -1,0 +1,16 @@
+D:\projects\03. Calculations\bin\Debug\net5.0\03. Calculations.exe
+D:\projects\03. Calculations\bin\Debug\net5.0\03. Calculations.deps.json
+D:\projects\03. Calculations\bin\Debug\net5.0\03. Calculations.runtimeconfig.json
+D:\projects\03. Calculations\bin\Debug\net5.0\03. Calculations.runtimeconfig.dev.json
+D:\projects\03. Calculations\bin\Debug\net5.0\03. Calculations.dll
+D:\projects\03. Calculations\bin\Debug\net5.0\ref\03. Calculations.dll
+D:\projects\03. Calculations\bin\Debug\net5.0\03. Calculations.pdb
+D:\projects\03. Calculations\obj\Debug\net5.0\03. Calculations.csproj.AssemblyReference.cache
+D:\projects\03. Calculations\obj\Debug\net5.0\03. Calculations.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\03. Calculations\obj\Debug\net5.0\03. Calculations.AssemblyInfoInputs.cache
+D:\projects\03. Calculations\obj\Debug\net5.0\03. Calculations.AssemblyInfo.cs
+D:\projects\03. Calculations\obj\Debug\net5.0\03. Calculations.csproj.CoreCompileInputs.cache
+D:\projects\03. Calculations\obj\Debug\net5.0\03. Calculations.dll
+D:\projects\03. Calculations\obj\Debug\net5.0\ref\03. Calculations.dll
+D:\projects\03. Calculations\obj\Debug\net5.0\03. Calculations.pdb
+D:\projects\03. Calculations\obj\Debug\net5.0\03. Calculations.genruntimeconfig.cache

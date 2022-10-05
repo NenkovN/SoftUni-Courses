@@ -1,0 +1,16 @@
+D:\projects\02. Grades\bin\Debug\net5.0\02. Grades.exe
+D:\projects\02. Grades\bin\Debug\net5.0\02. Grades.deps.json
+D:\projects\02. Grades\bin\Debug\net5.0\02. Grades.runtimeconfig.json
+D:\projects\02. Grades\bin\Debug\net5.0\02. Grades.runtimeconfig.dev.json
+D:\projects\02. Grades\bin\Debug\net5.0\02. Grades.dll
+D:\projects\02. Grades\bin\Debug\net5.0\ref\02. Grades.dll
+D:\projects\02. Grades\bin\Debug\net5.0\02. Grades.pdb
+D:\projects\02. Grades\obj\Debug\net5.0\02. Grades.csproj.AssemblyReference.cache
+D:\projects\02. Grades\obj\Debug\net5.0\02. Grades.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\02. Grades\obj\Debug\net5.0\02. Grades.AssemblyInfoInputs.cache
+D:\projects\02. Grades\obj\Debug\net5.0\02. Grades.AssemblyInfo.cs
+D:\projects\02. Grades\obj\Debug\net5.0\02. Grades.csproj.CoreCompileInputs.cache
+D:\projects\02. Grades\obj\Debug\net5.0\02. Grades.dll
+D:\projects\02. Grades\obj\Debug\net5.0\ref\02. Grades.dll
+D:\projects\02. Grades\obj\Debug\net5.0\02. Grades.pdb
+D:\projects\02. Grades\obj\Debug\net5.0\02. Grades.genruntimeconfig.cache

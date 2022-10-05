@@ -1,0 +1,15 @@
+D:\projects\06. Calculate Rectangle Area\bin\Debug\net5.0\06. Calculate Rectangle Area.exe
+D:\projects\06. Calculate Rectangle Area\bin\Debug\net5.0\06. Calculate Rectangle Area.deps.json
+D:\projects\06. Calculate Rectangle Area\bin\Debug\net5.0\06. Calculate Rectangle Area.runtimeconfig.json
+D:\projects\06. Calculate Rectangle Area\bin\Debug\net5.0\06. Calculate Rectangle Area.runtimeconfig.dev.json
+D:\projects\06. Calculate Rectangle Area\bin\Debug\net5.0\06. Calculate Rectangle Area.dll
+D:\projects\06. Calculate Rectangle Area\bin\Debug\net5.0\ref\06. Calculate Rectangle Area.dll
+D:\projects\06. Calculate Rectangle Area\bin\Debug\net5.0\06. Calculate Rectangle Area.pdb
+D:\projects\06. Calculate Rectangle Area\obj\Debug\net5.0\06. Calculate Rectangle Area.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\06. Calculate Rectangle Area\obj\Debug\net5.0\06. Calculate Rectangle Area.AssemblyInfoInputs.cache
+D:\projects\06. Calculate Rectangle Area\obj\Debug\net5.0\06. Calculate Rectangle Area.AssemblyInfo.cs
+D:\projects\06. Calculate Rectangle Area\obj\Debug\net5.0\06. Calculate Rectangle Area.csproj.CoreCompileInputs.cache
+D:\projects\06. Calculate Rectangle Area\obj\Debug\net5.0\06. Calculate Rectangle Area.dll
+D:\projects\06. Calculate Rectangle Area\obj\Debug\net5.0\ref\06. Calculate Rectangle Area.dll
+D:\projects\06. Calculate Rectangle Area\obj\Debug\net5.0\06. Calculate Rectangle Area.pdb
+D:\projects\06. Calculate Rectangle Area\obj\Debug\net5.0\06. Calculate Rectangle Area.genruntimeconfig.cache
