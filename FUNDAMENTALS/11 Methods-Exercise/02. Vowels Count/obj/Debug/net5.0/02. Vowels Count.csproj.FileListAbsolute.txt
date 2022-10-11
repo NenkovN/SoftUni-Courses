@@ -1,0 +1,16 @@
+D:\projects\02. Vowels Count\bin\Debug\net5.0\02. Vowels Count.exe
+D:\projects\02. Vowels Count\bin\Debug\net5.0\02. Vowels Count.deps.json
+D:\projects\02. Vowels Count\bin\Debug\net5.0\02. Vowels Count.runtimeconfig.json
+D:\projects\02. Vowels Count\bin\Debug\net5.0\02. Vowels Count.runtimeconfig.dev.json
+D:\projects\02. Vowels Count\bin\Debug\net5.0\02. Vowels Count.dll
+D:\projects\02. Vowels Count\bin\Debug\net5.0\ref\02. Vowels Count.dll
+D:\projects\02. Vowels Count\bin\Debug\net5.0\02. Vowels Count.pdb
+D:\projects\02. Vowels Count\obj\Debug\net5.0\02. Vowels Count.csproj.AssemblyReference.cache
+D:\projects\02. Vowels Count\obj\Debug\net5.0\02. Vowels Count.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\02. Vowels Count\obj\Debug\net5.0\02. Vowels Count.AssemblyInfoInputs.cache
+D:\projects\02. Vowels Count\obj\Debug\net5.0\02. Vowels Count.AssemblyInfo.cs
+D:\projects\02. Vowels Count\obj\Debug\net5.0\02. Vowels Count.csproj.CoreCompileInputs.cache
+D:\projects\02. Vowels Count\obj\Debug\net5.0\02. Vowels Count.dll
+D:\projects\02. Vowels Count\obj\Debug\net5.0\ref\02. Vowels Count.dll
+D:\projects\02. Vowels Count\obj\Debug\net5.0\02. Vowels Count.pdb
+D:\projects\02. Vowels Count\obj\Debug\net5.0\02. Vowels Count.genruntimeconfig.cache

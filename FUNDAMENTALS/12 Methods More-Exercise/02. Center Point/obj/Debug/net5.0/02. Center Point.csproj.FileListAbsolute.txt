@@ -1,0 +1,16 @@
+D:\projects\02. Center Point\bin\Debug\net5.0\02. Center Point.exe
+D:\projects\02. Center Point\bin\Debug\net5.0\02. Center Point.deps.json
+D:\projects\02. Center Point\bin\Debug\net5.0\02. Center Point.runtimeconfig.json
+D:\projects\02. Center Point\bin\Debug\net5.0\02. Center Point.runtimeconfig.dev.json
+D:\projects\02. Center Point\bin\Debug\net5.0\02. Center Point.dll
+D:\projects\02. Center Point\bin\Debug\net5.0\ref\02. Center Point.dll
+D:\projects\02. Center Point\bin\Debug\net5.0\02. Center Point.pdb
+D:\projects\02. Center Point\obj\Debug\net5.0\02. Center Point.csproj.AssemblyReference.cache
+D:\projects\02. Center Point\obj\Debug\net5.0\02. Center Point.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\02. Center Point\obj\Debug\net5.0\02. Center Point.AssemblyInfoInputs.cache
+D:\projects\02. Center Point\obj\Debug\net5.0\02. Center Point.AssemblyInfo.cs
+D:\projects\02. Center Point\obj\Debug\net5.0\02. Center Point.csproj.CoreCompileInputs.cache
+D:\projects\02. Center Point\obj\Debug\net5.0\02. Center Point.dll
+D:\projects\02. Center Point\obj\Debug\net5.0\ref\02. Center Point.dll
+D:\projects\02. Center Point\obj\Debug\net5.0\02. Center Point.pdb
+D:\projects\02. Center Point\obj\Debug\net5.0\02. Center Point.genruntimeconfig.cache

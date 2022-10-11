@@ -1,0 +1,16 @@
+D:\projects\01. Data Types\bin\Debug\net5.0\01. Data Types.exe
+D:\projects\01. Data Types\bin\Debug\net5.0\01. Data Types.deps.json
+D:\projects\01. Data Types\bin\Debug\net5.0\01. Data Types.runtimeconfig.json
+D:\projects\01. Data Types\bin\Debug\net5.0\01. Data Types.runtimeconfig.dev.json
+D:\projects\01. Data Types\bin\Debug\net5.0\01. Data Types.dll
+D:\projects\01. Data Types\bin\Debug\net5.0\ref\01. Data Types.dll
+D:\projects\01. Data Types\bin\Debug\net5.0\01. Data Types.pdb
+D:\projects\01. Data Types\obj\Debug\net5.0\01. Data Types.csproj.AssemblyReference.cache
+D:\projects\01. Data Types\obj\Debug\net5.0\01. Data Types.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\01. Data Types\obj\Debug\net5.0\01. Data Types.AssemblyInfoInputs.cache
+D:\projects\01. Data Types\obj\Debug\net5.0\01. Data Types.AssemblyInfo.cs
+D:\projects\01. Data Types\obj\Debug\net5.0\01. Data Types.csproj.CoreCompileInputs.cache
+D:\projects\01. Data Types\obj\Debug\net5.0\01. Data Types.dll
+D:\projects\01. Data Types\obj\Debug\net5.0\ref\01. Data Types.dll
+D:\projects\01. Data Types\obj\Debug\net5.0\01. Data Types.pdb
+D:\projects\01. Data Types\obj\Debug\net5.0\01. Data Types.genruntimeconfig.cache

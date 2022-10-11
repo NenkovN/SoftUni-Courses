@@ -1,0 +1,16 @@
+D:\projects\01. Smallest of Three Numbers\bin\Debug\net5.0\01. Smallest of Three Numbers.exe
+D:\projects\01. Smallest of Three Numbers\bin\Debug\net5.0\01. Smallest of Three Numbers.deps.json
+D:\projects\01. Smallest of Three Numbers\bin\Debug\net5.0\01. Smallest of Three Numbers.runtimeconfig.json
+D:\projects\01. Smallest of Three Numbers\bin\Debug\net5.0\01. Smallest of Three Numbers.runtimeconfig.dev.json
+D:\projects\01. Smallest of Three Numbers\bin\Debug\net5.0\01. Smallest of Three Numbers.dll
+D:\projects\01. Smallest of Three Numbers\bin\Debug\net5.0\ref\01. Smallest of Three Numbers.dll
+D:\projects\01. Smallest of Three Numbers\bin\Debug\net5.0\01. Smallest of Three Numbers.pdb
+D:\projects\01. Smallest of Three Numbers\obj\Debug\net5.0\01. Smallest of Three Numbers.csproj.AssemblyReference.cache
+D:\projects\01. Smallest of Three Numbers\obj\Debug\net5.0\01. Smallest of Three Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\01. Smallest of Three Numbers\obj\Debug\net5.0\01. Smallest of Three Numbers.AssemblyInfoInputs.cache
+D:\projects\01. Smallest of Three Numbers\obj\Debug\net5.0\01. Smallest of Three Numbers.AssemblyInfo.cs
+D:\projects\01. Smallest of Three Numbers\obj\Debug\net5.0\01. Smallest of Three Numbers.csproj.CoreCompileInputs.cache
+D:\projects\01. Smallest of Three Numbers\obj\Debug\net5.0\01. Smallest of Three Numbers.dll
+D:\projects\01. Smallest of Three Numbers\obj\Debug\net5.0\ref\01. Smallest of Three Numbers.dll
+D:\projects\01. Smallest of Three Numbers\obj\Debug\net5.0\01. Smallest of Three Numbers.pdb
+D:\projects\01. Smallest of Three Numbers\obj\Debug\net5.0\01. Smallest of Three Numbers.genruntimeconfig.cache

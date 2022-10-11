@@ -1,0 +1,16 @@
+D:\projects\03. Characters in Range\bin\Debug\net5.0\03. Characters in Range.exe
+D:\projects\03. Characters in Range\bin\Debug\net5.0\03. Characters in Range.deps.json
+D:\projects\03. Characters in Range\bin\Debug\net5.0\03. Characters in Range.runtimeconfig.json
+D:\projects\03. Characters in Range\bin\Debug\net5.0\03. Characters in Range.runtimeconfig.dev.json
+D:\projects\03. Characters in Range\bin\Debug\net5.0\03. Characters in Range.dll
+D:\projects\03. Characters in Range\bin\Debug\net5.0\ref\03. Characters in Range.dll
+D:\projects\03. Characters in Range\bin\Debug\net5.0\03. Characters in Range.pdb
+D:\projects\03. Characters in Range\obj\Debug\net5.0\03. Characters in Range.csproj.AssemblyReference.cache
+D:\projects\03. Characters in Range\obj\Debug\net5.0\03. Characters in Range.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\03. Characters in Range\obj\Debug\net5.0\03. Characters in Range.AssemblyInfoInputs.cache
+D:\projects\03. Characters in Range\obj\Debug\net5.0\03. Characters in Range.AssemblyInfo.cs
+D:\projects\03. Characters in Range\obj\Debug\net5.0\03. Characters in Range.csproj.CoreCompileInputs.cache
+D:\projects\03. Characters in Range\obj\Debug\net5.0\03. Characters in Range.dll
+D:\projects\03. Characters in Range\obj\Debug\net5.0\ref\03. Characters in Range.dll
+D:\projects\03. Characters in Range\obj\Debug\net5.0\03. Characters in Range.pdb
+D:\projects\03. Characters in Range\obj\Debug\net5.0\03. Characters in Range.genruntimeconfig.cache

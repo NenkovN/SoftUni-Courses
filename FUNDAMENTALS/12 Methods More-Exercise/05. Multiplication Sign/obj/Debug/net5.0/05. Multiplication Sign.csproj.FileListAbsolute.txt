@@ -1,0 +1,16 @@
+D:\projects\05. Multiplication Sign\bin\Debug\net5.0\05. Multiplication Sign.exe
+D:\projects\05. Multiplication Sign\bin\Debug\net5.0\05. Multiplication Sign.deps.json
+D:\projects\05. Multiplication Sign\bin\Debug\net5.0\05. Multiplication Sign.runtimeconfig.json
+D:\projects\05. Multiplication Sign\bin\Debug\net5.0\05. Multiplication Sign.runtimeconfig.dev.json
+D:\projects\05. Multiplication Sign\bin\Debug\net5.0\05. Multiplication Sign.dll
+D:\projects\05. Multiplication Sign\bin\Debug\net5.0\ref\05. Multiplication Sign.dll
+D:\projects\05. Multiplication Sign\bin\Debug\net5.0\05. Multiplication Sign.pdb
+D:\projects\05. Multiplication Sign\obj\Debug\net5.0\05. Multiplication Sign.csproj.AssemblyReference.cache
+D:\projects\05. Multiplication Sign\obj\Debug\net5.0\05. Multiplication Sign.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\05. Multiplication Sign\obj\Debug\net5.0\05. Multiplication Sign.AssemblyInfoInputs.cache
+D:\projects\05. Multiplication Sign\obj\Debug\net5.0\05. Multiplication Sign.AssemblyInfo.cs
+D:\projects\05. Multiplication Sign\obj\Debug\net5.0\05. Multiplication Sign.csproj.CoreCompileInputs.cache
+D:\projects\05. Multiplication Sign\obj\Debug\net5.0\05. Multiplication Sign.dll
+D:\projects\05. Multiplication Sign\obj\Debug\net5.0\ref\05. Multiplication Sign.dll
+D:\projects\05. Multiplication Sign\obj\Debug\net5.0\05. Multiplication Sign.pdb
+D:\projects\05. Multiplication Sign\obj\Debug\net5.0\05. Multiplication Sign.genruntimeconfig.cache

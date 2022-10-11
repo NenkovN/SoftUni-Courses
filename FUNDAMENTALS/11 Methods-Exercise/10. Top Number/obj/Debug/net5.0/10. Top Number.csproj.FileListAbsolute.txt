@@ -1,0 +1,16 @@
+D:\projects\Fundamentals\11 Methods-Exercise\10. Top Number\bin\Debug\net5.0\10. Top Number.exe
+D:\projects\Fundamentals\11 Methods-Exercise\10. Top Number\bin\Debug\net5.0\10. Top Number.deps.json
+D:\projects\Fundamentals\11 Methods-Exercise\10. Top Number\bin\Debug\net5.0\10. Top Number.runtimeconfig.json
+D:\projects\Fundamentals\11 Methods-Exercise\10. Top Number\bin\Debug\net5.0\10. Top Number.runtimeconfig.dev.json
+D:\projects\Fundamentals\11 Methods-Exercise\10. Top Number\bin\Debug\net5.0\10. Top Number.dll
+D:\projects\Fundamentals\11 Methods-Exercise\10. Top Number\bin\Debug\net5.0\ref\10. Top Number.dll
+D:\projects\Fundamentals\11 Methods-Exercise\10. Top Number\bin\Debug\net5.0\10. Top Number.pdb
+D:\projects\Fundamentals\11 Methods-Exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.csproj.AssemblyReference.cache
+D:\projects\Fundamentals\11 Methods-Exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\Fundamentals\11 Methods-Exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.AssemblyInfoInputs.cache
+D:\projects\Fundamentals\11 Methods-Exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.AssemblyInfo.cs
+D:\projects\Fundamentals\11 Methods-Exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.csproj.CoreCompileInputs.cache
+D:\projects\Fundamentals\11 Methods-Exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.dll
+D:\projects\Fundamentals\11 Methods-Exercise\10. Top Number\obj\Debug\net5.0\ref\10. Top Number.dll
+D:\projects\Fundamentals\11 Methods-Exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.pdb
+D:\projects\Fundamentals\11 Methods-Exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.genruntimeconfig.cache
